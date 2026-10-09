@@ -1,0 +1,38 @@
+MUSEU DIGITAL DE DELFIM MOREIRA — PUBLICAÇÃO INDEPENDENTE
+
+Este ZIP contém todo o site publicado na versão 12, incluindo páginas,
+fotografias, biblioteca, vídeos e os oito dossiês e tombamentos completos.
+Preparado em 08/10/2026 a partir da versão publicada do Museu Digital.
+
+SITUAÇÃO
+Este arquivo está pronto para publicação. A hospedagem externa ainda precisa
+ser criada na sua conta. Baixar ou guardar o ZIP não publica o site.
+
+PUBLICAÇÃO PELO CHATGPT
+Instale a integração GitHub e conecte uma conta sua do GitHub.
+Peça para publicar este ZIP em um novo repositório público chamado
+museu-digital-delfim-moreira e ativar GitHub Pages na pasta raiz da branch main.
+O arquivo index.html deve ficar na raiz; a pasta assets e a pasta leitura
+devem permanecer no mesmo nível que ele. Preserve o arquivo .nojekyll.
+Todos os arquivos de edição são HTML, CSS e JavaScript; não há compilação.
+O endereço será informado depois que a publicação terminar.
+
+ALTERAÇÕES FUTURAS
+Após cada edição, atualize os arquivos no mesmo repositório e publique.
+No ChatGPT, identifique o repositório e peça a alteração desejada.
+A hospedagem do GitHub Pages é separada da assinatura Plus do ChatGPT.
+O plano gratuito usa um repositório público e tem seus próprios limites.
+
+DOCUMENTOS E VÍDEOS
+Sete dossiês estão em PDFs diretos na pasta assets/dossies.
+O PDF dos Pontilhões, com 173 páginas, está dividido em três arquivos .bin.
+O leitor dossies-reader.js reúne as partes para leitura e download completos.
+Mantenha as três partes, o leitor e a página correspondentes juntos.
+Os vídeos incorporados continuam sendo reproduzidos pelo YouTube.
+
+FONTES
+GitHub Pages: https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site
+Limites: https://docs.github.com/pt/pages/getting-started-with-github-pages/github-pages-limits
+
+O endereço original do ChatGPT pertence à hospedagem original.
+A publicação externa cria outro endereço, independente do Plus.
